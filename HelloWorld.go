@@ -2,7 +2,9 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 	fmt.Println("Hello world my name is Jedrek")
 	fmt.Println("Please be nice - Jed")
+
+	fmt.Println("Hello world my name is Ashira")
 }
